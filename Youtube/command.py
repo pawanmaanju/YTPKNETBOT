@@ -1,6 +1,6 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/YouTube-Video-Download-Bot
 
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/YouTube-Video-Download-Bot
+
+
 
 
 
@@ -26,7 +26,7 @@ else:
 
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
+########################🎊 PAWAN MAANJU BISHNOI 🎊######################################################
 @Client.on_callback_query(filters.regex("cancel"))
 async def cancel(client, callback_query):
     await callback_query.message.delete()
@@ -88,4 +88,4 @@ Enjoy using the bot!
     await message.reply_text(help_text)
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
+########################🎊 PAWAN MAANJU BISHNOI 🎊######################################################
